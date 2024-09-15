@@ -42,3 +42,6 @@ Uma lista que contém qualquer tipo de dado
 - criar, passar argumento
 - excluir
 - arrow function/ named function
+
+# Estrutura de repetição
+- while
