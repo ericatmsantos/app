@@ -22,8 +22,9 @@
 - Boolean
 
 ## Operadores
-- Operadore de atribuição de valor (=)
-- Operador de concatenação (+)
+- Operadore de atribuição de valor: =
+- Operador de concatenação: +
+- Operadores de comparação: == != <= >= < >
 
 ## Estrutura de Dados
 
@@ -48,8 +49,11 @@ Uma lista que contém qualquer tipo de dado
 
 # Condicionais
 - switch
+- if/else
 
 ## Módulos em Node.js
 - Importação de módulos (requirer, CommonJS)
 - Biblioteca 'inquirer' para criar prompts interativos
-- 
+
+## Programação assíncrona e Promises
+- Uso de funções assíncronas (async/await)
