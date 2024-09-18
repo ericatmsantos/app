@@ -31,7 +31,7 @@
 
 ### Array: 
 - Uma lista que contém qualquer tipo de dado
-- Métodos de array: push, [find, forEach, filter]: HOF (Higher Order Function)
+- Métodos de array: push, [find, forEach, filter, map]: HOF (Higher Order Function)
 
 ### Objetos:
 - Atributos e métodos
